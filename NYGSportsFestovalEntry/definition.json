@@ -1,0 +1,180 @@
+{
+    "色": [
+        "赤",
+        "青",
+        "黄",
+        "白"
+    ],
+    "色数": "23",
+    "競技数": 4,
+    "競技": [
+        {
+            "name": "徒競走",
+            "id": 1,
+            "gender": 1,
+            "grade": 0,
+            "number": 4
+        },
+        {
+            "name": "徒競走",
+            "id": 1,
+            "gender": 2,
+            "grade": 0,
+            "number": 2
+        },
+        {
+            "name": "GoGo5",
+            "id": 2,
+            "gender": 0,
+            "grade": 1,
+            "number": 4
+        },
+        {
+            "name": "GoGo5",
+            "id": 3,
+            "gender": 0,
+            "grade": 2,
+            "number": 4
+        },
+        {
+            "name": "玉入れ",
+            "id": 4,
+            "gender": 0,
+            "grade": 1,
+            "number": 20
+        },
+        {
+            "name": "玉入れ",
+            "id": 5,
+            "gender": 0,
+            "grade": 1,
+            "number": 20
+        },
+        {
+            "name": "障害物競走",
+            "id": 6,
+            "gender": 0,
+            "grade": 0,
+            "number": 4
+        },
+        {
+            "name": "いなばの白兎",
+            "id": 7,
+            "gender": 0,
+            "grade": 2,
+            "number": 26
+        },
+        {
+            "name": "二人三脚リレー",
+            "id": 8,
+            "gender": 0,
+            "grade": 1,
+            "number": 8
+        },
+        {
+            "name": "七人八脚リレー",
+            "id": 9,
+            "gender": 0,
+            "grade": 2,
+            "number": 14
+        },
+        {
+            "name": "泰然たる白馬",
+            "id": 10,
+            "gender": 0,
+            "grade": 0,
+            "number": 30
+        },
+        {
+            "name": "女子リレー",
+            "id": 11,
+            "gender": 2,
+            "grade": 0,
+            "number": 4
+        },
+        {
+            "name": "スウェーデンリレー",
+            "id": 12,
+            "gender": 0,
+            "grade": 0,
+            "number": 8
+        },
+        {
+            "name": "四隅綱引き",
+            "id": 13,
+            "gender": 0,
+            "grade": 2,
+            "number": 20
+        },
+        {
+            "name": "綱引き",
+            "id": 14,
+            "gender": 0,
+            "grade": 1,
+            "number": 20
+        },
+        {
+            "name": "綱引き",
+            "id": 15,
+            "gender": 0,
+            "grade": 2,
+            "number": 30
+        },
+        {
+            "name": "騎馬戦",
+            "id": 19,
+            "gender": 0,
+            "grade": 2,
+            "number": 32
+        },
+        {
+            "name": "ハリケーン",
+            "id": 20,
+            "gender": 0,
+            "grade": 0,
+            "number": 8
+        },
+        {
+            "name": "ハンプティダンプティ",
+            "id": 21,
+            "gender": 2,
+            "grade": 0,
+            "number": 8
+        },
+        {
+            "name": "みんなでジャンプ",
+            "id": 22,
+            "gender": 2,
+            "grade": 2,
+            "number": 20
+        },
+        {
+            "name": "縄引き",
+            "id": 23,
+            "gender": 0,
+            "grade": 1,
+            "number": 15
+        },
+        {
+            "name": "縄引き",
+            "id": 24,
+            "gender": 0,
+            "grade": 2,
+            "number": 12
+        },
+        {
+            "name": "西大和リレー",
+            "id": 25,
+            "gender": 1,
+            "grade": 0,
+            "number": 8
+        },
+        {
+            "name": "四色対抗リレー",
+            "id": 26,
+            "gender": 0,
+            "grade": 0,
+            "number": 8
+        }
+    ]
+}
